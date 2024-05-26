@@ -26,13 +26,13 @@ The features are the independent variables used to predict the target variables.
 The results are below
 
 ### Heating
-|              Bayesian Linear Regression                      |
+Bayesian Linear Regression                      
 | Metric          | Training             | Test                |
 |-----------------|----------------------|---------------------|
 | RMSE            | 2.8307664611009185   | 4.0561986640826015  |
 | MAE             | 2.019417727018286    | 3.4091833723517095  |
 
-|              HMC Sampling for Linear Regression               |
+HMC Sampling for Linear Regression               
 | Metric          | Training             | Test                 |
 |-----------------|----------------------|----------------------|
 | RMSE            | 2.846183953103809    | 3.971034977449392    |
