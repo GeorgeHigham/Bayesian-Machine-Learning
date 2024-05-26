@@ -1,8 +1,7 @@
 # Bayesian-Machine-Learning
 Using Bayesian Machine Learning as a predictor for energy efficiency
 
-Bayesian Linear Regression, Hamilton Monte Carlo Sampling, and Variational Inference were all used in estimations.
-
+## Data
 
 | Feature                      | Variable Name |
 |------------------------------|---------------|
@@ -21,7 +20,6 @@ Bayesian Linear Regression, Hamilton Monte Carlo Sampling, and Variational Infer
 | Heating Load | Y1            |
 | Cooling Load | Y2            |
 
-The features are the independent variables used to predict the target variables. 
 
 ## Results
 
@@ -72,4 +70,11 @@ Variational Inference
 |-----------------|----------------------|---------------------|
 | RMSE            | 3.1314217888941567   | 3.6012172390656616  |
 | MAE             | 2.1810952861256894   | 2.808840257231868   |
+
+## References 
+
+Data: Tsanas,Athanasios and Xifara,Angeliki. (2012). Energy Efficiency. UCI Machine Learning Repository. https://doi.org/10.24432/C51307.
+
+Sampling code from from University of Bath Bayesian Machine Learning based on Radford Neal "one_step" code: http://www.cs.utoronto.ca/~radford/
+
 
