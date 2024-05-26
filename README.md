@@ -62,7 +62,7 @@ HMC Sampling for Linear Regression
 | RMSE            | 3.147003758619202    | 3.5493992005477257   |
 | MAE             | 2.194362611395043    | 2.6963719848256176   |
 
-HMC for Classification                     |
+HMC for Classification                     
 | Metric                    | Training       | Test       |
 |---------------------------|----------------|------------|
 | Classification Error      | 1.302083333%   | 0.0%       |
