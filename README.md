@@ -23,7 +23,7 @@ Bayesian Linear Regression, Hamilton Monte Carlo Sampling, and Variational Infer
 
 The features are the independent variables used to predict the target variables. 
 
-The results are below
+## Results
 
 ### Heating
 Bayesian Linear Regression                      
