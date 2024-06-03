@@ -75,6 +75,6 @@ Variational Inference
 
 Data: Tsanas,Athanasios and Xifara,Angeliki. (2012). Energy Efficiency. UCI Machine Learning Repository. https://doi.org/10.24432/C51307.
 
-Sampling code from from University of Bath, Bayesian Machine Learning CM50268 based on Radford Neal "one_step" code: http://www.cs.utoronto.ca/~radford/
+Sampling code from the University of Bath, Bayesian Machine Learning CM50268 based on Radford Neal "one_step" code: http://www.cs.utoronto.ca/~radford/
 
 
